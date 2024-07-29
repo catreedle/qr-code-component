@@ -74,6 +74,8 @@ body {
 For the QR image and text, I grouped them in a `div` with class `card`.
 `margin: auto;` centers the card within the flex container.
 
+*Edit: Using semantic HTML, I changed the card `div` to `main` and the attribution `div` to `footer`.
+
 ### Useful resources
 
 - [W3 Schools](https://www.w3schools.com) - This helped me to understand flex and how to center a div.
